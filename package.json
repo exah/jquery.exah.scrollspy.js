@@ -1,0 +1,14 @@
+{
+  "name": "exah.scrollspy",
+  "version": "0.1.0",
+  "description": "Yet another ScrollSpy",
+  "main": "jquery.exah.scrollspy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Grishin",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
