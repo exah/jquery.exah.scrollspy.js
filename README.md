@@ -1,4 +1,4 @@
-# Simple jQuery scrollspy library 
+# Simple jQuery Scrollspy Plugin
 
 Usage
 
