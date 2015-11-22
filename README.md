@@ -9,10 +9,10 @@ $('.container').scrollspy(options);
 Options (defaults)
 ```javascript
 {
-  'scrollEl': window, // Scrollable context
-  'offset': 0, // Offset from top
-  'selector': 'a[href^="#"]', // Element with target section id
-  'activeClass': 'current'  // Class that will appliet to element in selector
+  scrollEl    : window, // Scrollable context
+  offset      : 0, // Offset from top
+  selector    : 'a[href^="#"]', // Element with target section id
+  activeClass : 'current'  // Class that will appliet to element in selector
 }
 ```
 
