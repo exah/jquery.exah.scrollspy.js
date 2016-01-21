@@ -12,7 +12,7 @@ Options (defaults)
   scrollEl    : window, // Scrollable context
   offset      : 0, // Offset from top
   selector    : 'a[href^="#"]', // Element with target section id
-  activeClass : 'current'  // Class that will appliet to element in selector
+  activeClass : 'current'  // Class that will be applied to element in selector
 }
 ```
 
