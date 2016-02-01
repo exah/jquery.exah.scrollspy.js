@@ -3,10 +3,11 @@
 Usage
 
 ```javascript
-$('.container').scrollspy(options);
+$('.nav').scrollspy(options);
 ```
 
 Options (defaults)
+
 ```javascript
 {
   scrollEl    : window, // Scrollable context
@@ -18,6 +19,7 @@ Options (defaults)
 
 
 Example
+
 ```html
 <nav class="navigation">
   <a href="#firstSection" class="navigation-item current">First Section</a>
@@ -29,6 +31,7 @@ Example
 <div id="otherSection" class="section">Content</div>
 ...
 ```
+
 ```javascript
 $('.navigation').scrollspy();
 ```
